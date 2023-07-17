@@ -2,11 +2,18 @@
   "users": [
     {
       "username": "adrianf",
-      "pin": "2002"
+      "pin": "2002",
+      "dashboard": "dashboard2002.html"
     },
     {
       "username": "maxh",
-      "pin": "1962"
+      "pin": "1962",
+      "dashboard": "dashboard1962.html"
+    },
+    {
+      "username": "sahilsj",
+      "pin": "1695",
+      "dashboard": "dashboard1695.html"
     }
   ]
 }
